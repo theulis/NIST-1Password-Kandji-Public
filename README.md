@@ -30,7 +30,7 @@ HVXCK0G2LQ,Susan Roberts,susan.roberts@fictionalcorp.com,8.11.6,8.11.6.364665,No
 W4V2RQMQFM,Linda Chen,linda.chen@fictionalcorp.com,8.11.4,8.11.4.360922,No Vulnerabilities,0
 ```
 
-*The Terminal output will be* 
+*The Terminal output will be*
 
 ```
 🚨 VULNERABILITY FOUND: Henry Wilson (FVFH92LEQ6LT) (1Password 8.10.30) - 2 vulnerability(s): CVE-2024-42218, CVE-2024-42219
